@@ -1,0 +1,13 @@
+[master 0c63fc6] 'what
+ 11 files changed, 837 insertions(+), 44 deletions(-)
+ create mode 100644 .gitignore
+ create mode 100644 .idea/DataStudy.iml
+ create mode 100644 .idea/misc.xml
+ create mode 100644 .idea/modules.xml
+ create mode 100644 .idea/vcs.xml
+ create mode 100644 .idea/workspace.xml
+ create mode 100644 Lecture_Logistic.ipynb
+ create mode 100644 TF_Lecture_3.ipynb
+ create mode 100644 chapter_one_setup.ipynb
+ delete mode 100644 dd.ipynb
+ delete mode 100644 dd.py
